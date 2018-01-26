@@ -254,7 +254,7 @@ GEM
       activesupport (>= 4.2.0)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
-    i18n (0.9.1)
+    i18n (0.9.3)
       concurrent-ruby (~> 1.0)
     inflecto (0.0.2)
     ipaddress (0.8.3)
@@ -284,7 +284,7 @@ GEM
     mime-types-data (3.2016.0521)
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
-    minitest (5.11.1)
+    minitest (5.11.2)
     multi_json (1.13.1)
     netrc (0.11.0)
     nio4r (2.2.0)
@@ -454,5 +454,8 @@ DEPENDENCIES
   web-console (>= 3.3.0)
   webpacker (~> 3.2)
 
+RUBY VERSION
+   ruby 2.5.0p0
+
 BUNDLED WITH
-   1.16.0
+   1.16.1
