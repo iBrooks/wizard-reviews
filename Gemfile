@@ -67,4 +67,5 @@ gem 'fog'
 gem 'dotenv-rails'
 
 gem "active_model_serializers"
+ruby '2.3.4'
 
